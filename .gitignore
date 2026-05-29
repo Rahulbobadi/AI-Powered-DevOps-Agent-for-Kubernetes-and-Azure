@@ -1,0 +1,44 @@
+# Python
+
+**pycache**/
+*.pyc
+*.pyo
+
+# Virtual Environments
+
+venv/
+ai-env/
+.venv/
+
+# Streamlit
+
+.streamlit/
+
+# IDE
+
+.vscode/
+.idea/
+
+# Git
+
+.git/
+
+# Logs
+
+*.log
+
+# OS Files
+
+.DS_Store
+
+# Kubernetes
+
+*.kubeconfig
+
+# Azure
+
+.azure/
+
+# Docker
+
+*.tar
