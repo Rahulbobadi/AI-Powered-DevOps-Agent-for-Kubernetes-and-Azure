@@ -1,0 +1,8 @@
+streamlit
+ollama
+kubernetes
+boto3
+python-dotenv
+azure-identity
+azure-mgmt-storage
+azure-mgmt-containerregistry
